@@ -9,7 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 </div>
 
-As a meticulous developer, my focus is on precision and efficiency. I am honing my skills to build high-performance web applications that ensure speed and optimize user experiences. While I might be relatively new to the field, my passion for coding and inherent curiosity drives me to dig deep and unravel the best practices in web development.
+I am a backend-focused fullstack developer based in Ankara, Türkiye, continuously working to improve my skills in building high-performance and scalable web applications. I mainly use **Laravel** for backend projects and **React** for frontend-focused applications. I also work with **.NET Core** to create REST APIs and **SAP B1** for add-ons and web integrations. Recently, I've started exploring **Java Spring Boot** to expand my backend development skills. Additionally, I am pursuing my curiosity in DevOps, particularly around CI/CD pipelines, deployment automation, and server management to better understand and optimize development workflows.
+
 
 Let’s build the web, one line of code at a time. 💻🚀
 
@@ -40,7 +41,9 @@ Let’s build the web, one line of code at a time. 💻🚀
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
 </div>
+
 
 ### Tools
 <div align="left">
@@ -57,12 +60,12 @@ Let’s build the web, one line of code at a time. 💻🚀
 ### University and Internship Experience
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
+ <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
   <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="60" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
 </div>
 
 ###
