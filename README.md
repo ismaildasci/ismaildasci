@@ -17,7 +17,7 @@ Let’s build the web, one line of code at a time. 💻🚀
 * 🌍  I'm based in Ankara/Türkiye
 * 🛠️ See my portfolio at [Web Site](https://ismaildasci.com)
 * 📧   You can contact me at [dasci.info@gmail.com](mailto:dasci.info@gmail.com)
-* ️💼  You can check out my [LinkedIn](https://www.linkedin.com/in/ismaildasci/)
+* ️💼  You can check out my [LinkedIn](https://www.linkedin.com/in/ismail-daşcı//)
 * 🚀  I'm currently working on [ODS Danışmanlık](https://odsdanismanlik.com/tr/)
 *  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="18" alt="laravel logo"  />  I'm writing Laravel 
 *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react logo"  />  I'm learning React
