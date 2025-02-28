@@ -3,6 +3,7 @@
 
 ### Fullstack Web Developer
 -----------------------
+![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 <div align="center">
   <a href="https://discord.com/users/470152606056972306">
     <img align="right" src="https://lanyard-profile-readme.vercel.app/api/470152606056972306?theme=dark&bg=2A2D3E&borderRadius=20&hideDiscrim=true&hideBadges=false&showDisplayName=true&idleMessage=Exploring%20new%20horizons!" alt="Discord Profile">
