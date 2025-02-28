@@ -19,9 +19,5 @@ Let’s build the web, one line of code at a time. 💻🚀
 * 📧   You can contact me at [dasci.info@gmail.com](mailto:dasci.info@gmail.com)
 * ️💼  You can check out my [LinkedIn](https://www.linkedin.com/in/ismail-daşcı//)
 * 🚀  I'm currently working on [ODS Danışmanlık](https://odsdanismanlik.com/tr/)
-*  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="18" alt="laravel logo"  />  I'm writing Laravel 
-*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="react logo"  />  I'm learning React
-### Socials
-<p align="left"> <a href="https://www.github.com/ismaildasci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /> <a href="https://www.linkedin.com/in/ismaildasci/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/19970167/ismaildasci/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ###
