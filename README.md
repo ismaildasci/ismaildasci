@@ -24,7 +24,7 @@ Currently working at **[Netgsm İletişim ve Bilgi Teknolojileri A.Ş.](https://
 
 **Backend**
 ```
-Laravel · .NET Core · PHP · C#
+PHP · Laravel · .NET Core · PHP · C#
 ```
 
 **Frontend**
