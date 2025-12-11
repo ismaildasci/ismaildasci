@@ -34,7 +34,8 @@ React · Vue.js · TypeScript · Tailwind CSS
 
 **Database & Cache**
 ```
-MySQL · PostgreSQL · Redis · Elasticsearch
+SQL: MySQL · PostgreSQL · MSSQL
+NoSQL: MongoDB · Firebase · Redis · Elasticsearch
 ```
 
 **Enterprise**
