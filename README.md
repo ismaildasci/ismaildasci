@@ -1,6 +1,6 @@
 <div align="center">
   
-![Dino (1)](https://github.com/user-attachments/assets/56d378f6-94d1-4fe0-816c-8d80fd8d35ea)
+
 
 # İsmail Daşcı
 **Full-Stack Developer** specialized in building high-performance, scalable enterprise applications.
@@ -20,44 +20,7 @@ I am a backend-focused full-stack developer based in **Ankara, Türkiye**, speci
 Currently working at **[Netgsm İletişim ve Bilgi Teknolojileri A.Ş.](https://www.netgsm.com.tr/)** where I develop telecommunications and business solutions.
 
 ---
-
-### Tech Stack
-
-**Backend**
-```
-PHP · Laravel · .NET Core · PHP · C#
-```
-
-**Frontend**
-```
-React · Vue.js · TypeScript · Tailwind CSS
-```
-
-**Database & Cache**
-```
-SQL: MySQL · PostgreSQL · MSSQL
-NoSQL: MongoDB · Firebase · Redis · Elasticsearch
-```
-
-**Enterprise**
-```
-SAP Business One · REST API Design · Microservices
-```
-
-**DevOps**
-```
-Docker · Linux · Nginx · CI/CD · Git
-```
-
----
-
-### Currently Learning
-
-```
-Java · Spring Boot · Spring Security · Spring Data JPA
-```
-
----
+![Dino (1)](https://github.com/user-attachments/assets/4c930921-609a-463e-83eb-0ca70e45ece3)
 
 ### Featured Projects
 
