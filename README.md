@@ -1,7 +1,8 @@
 <div align="center">
-[Dino (1)](https://github.com/user-attachments/assets/c1c4eb7e-be4e-4a66-ab67-c6709616ed0b)
+  
+![Dino (1)](https://github.com/user-attachments/assets/56d378f6-94d1-4fe0-816c-8d80fd8d35ea)
 
-  # İsmail Daşcı
+# İsmail Daşcı
 **Full-Stack Developer** specialized in building high-performance, scalable enterprise applications.
 
 [![Portfolio](https://img.shields.io/badge/ismaildasci.com-000000?style=flat&logo=safari&logoColor=white)](https://ismaildasci.com)
