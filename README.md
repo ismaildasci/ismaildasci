@@ -1,6 +1,7 @@
 <div align="center">
 
 # İsmail Daşcı
+![Dino (1)](https://github.com/user-attachments/assets/c1c4eb7e-be4e-4a66-ab67-c6709616ed0b)
 
 **Full-Stack Developer** specialized in building high-performance, scalable enterprise applications.
 
