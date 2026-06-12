@@ -1,60 +1,65 @@
-<div align="center">
-  
-
+```console
+ismail@ankara:~$ whoami
+```
 
 # İsmail Daşcı
-**Full-Stack Developer** specialized in building high-performance, scalable enterprise applications.
 
-[![Portfolio](https://img.shields.io/badge/ismaildasci.com-000000?style=flat&logo=safari&logoColor=white)](https://ismaildasci.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-daşcı/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dasci.info@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3400&pause=1000&color=8B949E&vCenter=true&width=620&lines=full-stack+developer+·+backend-focused;laravel+·+.net+·+sap+business+one;multi-tenant+saas+·+enterprise+integrations" alt="full-stack developer · backend-focused">
 
-</div>
-
----
-
-### About
-
-I am a backend-focused full-stack developer based in **Ankara, Türkiye**, specializing in enterprise-grade web applications with a focus on performance, security, and scalability.
-
-Currently working at **[Netgsm İletişim ve Bilgi Teknolojileri A.Ş.](https://www.netgsm.com.tr/)** where I develop telecommunications and business solutions.
-
----
-![Dino (1)](https://github.com/user-attachments/assets/4c930921-609a-463e-83eb-0ca70e45ece3)
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[GateKeeper](https://gatekeeper.ismaildasci.com)** | Enterprise API Gateway Management Platform | Laravel, Vue.js, Redis |
-| **[Secret Link](https://secretlink.ismaildasci.com)** | Self-destructing secure message sharing | Laravel, React, Encryption |
-| **[ScribeDash](https://scribedash.ismaildasci.com)** | Secure note-taking and sharing platform | Laravel, Vue.js, PostgreSQL |
-
-> **Note:** The projects listed above are personal work. Enterprise solutions, client integrations, and proprietary systems developed for corporate clients are not included due to confidentiality agreements.
-
-### Professional Experience Highlights
-
-```
-✓ SAP Business One Integration & Custom Add-on Development
-✓ Enterprise REST API Design & Implementation
-✓ Legacy System Modernization & Migration
-✓ High-Availability System Architecture
+```yaml
+role:      Full-Stack Developer (backend-focused)
+location:  Ankara, Türkiye (UTC+3)
+company:   Netgsm İletişim ve Bilgi Teknolojileri A.Ş.
+stack:
+  backend:  [PHP 8.x, Laravel · Octane · Swoole, .NET Core, Go, Rust]
+  frontend: [Vue.js, Nuxt, React, Next.js]
+  data:     [PostgreSQL, MySQL, MSSQL, Redis]
+  infra:    [Docker, Kubernetes, Linux, GitHub Actions]
+  erp:      [SAP Business One · Service Layer · add-ons]
+contact:   hello@ismaildasci.com · ismaildasci.com
 ```
 
----
+```console
+ismail@ankara:~$ cat ~/projects/open-source.md
+```
 
-### Contact
+**[sapb1-laravel-sdk](https://github.com/ismaildasci/sapb1-laravel-sdk)** — Open-source Laravel SDK for SAP Business One Service Layer, published on Packagist
+<sub>+ toolkit & Filament admin panel plugin</sub>
 
-For professional inquiries, collaborations, or consulting opportunities:
+**[laravel/framework](https://github.com/laravel/framework)** — Contributions merged into Laravel core
 
-- 📧 **Email:** [dasci.info@gmail.com](mailto:dasci.info@gmail.com)
-- 💼 **LinkedIn:** [ismail-daşcı](https://www.linkedin.com/in/ismail-daşcı/)
-- 🌐 **Portfolio:** [ismaildasci.com](https://ismaildasci.com)
+**[B1 Kampüs](https://b1-kampus.ismaildasci.com)** — SAP Business One focused learning & resource platform
 
----
+```console
+ismail@ankara:~$ cat experience.txt
+```
+
+Currently working as a Full-Stack Developer at [Netgsm](https://www.netgsm.com.tr/). 4+ years
+building enterprise software and SaaS products: multi-tenant platforms, SAP Business One
+add-ons and integrations, enterprise REST APIs, and legacy-to-Laravel modernizations —
+designed, shipped, and operated with Docker and Kubernetes.
+
+```console
+ismail@ankara:~$ ./run --activity
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ismaildasci&theme=github-compact&hide_border=true&bg_color=00000000&color=8b949e&line=2f81f7&point=c9d1d9&area=false&hide_title=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismaildasci&hide_border=true&color=57606a&line=2f81f7&point=24292f&area=false&hide_title=true" alt="Contribution activity" width="100%">
+</picture>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ismaildasci&style=flat&color=grey)
-
+<sub>exit 0 · <a href="mailto:hello@ismaildasci.com">hello@ismaildasci.com</a> · <a href="https://www.linkedin.com/in/ismail-daşcı/">LinkedIn</a> · <a href="https://ismaildasci.com">ismaildasci.com</a></sub>
 </div>
+
+<details>
+<summary><strong>Türkçe özet</strong></summary>
+<br>
+
+Ankara merkezli, backend odaklı full-stack geliştiriciyim. Netgsm'de çok kiracılı B2B SaaS
+ürünleri geliştiriyorum. Laravel çekirdeğine merge edilmiş katkılarım ve Packagist'te
+yayımlanmış SAP Business One SDK'm bulunuyor.
+
+</details>
+
+![Dino (1)](https://github.com/user-attachments/assets/4c930921-609a-463e-83eb-0ca70e45ece3)
