@@ -4,7 +4,7 @@ ismail@ankara:~$ whoami
 
 # İsmail Daşcı
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3400&pause=1000&color=8B949E&vCenter=true&width=620&lines=full-stack+developer+·+backend-focused;laravel+·+.net+·+sap+business+one;multi-tenant+saas+·+enterprise+integrations" alt="full-stack developer · backend-focused">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3400&pause=1000&color=8B949E&vCenter=true&width=620&lines=full-stack+developer+%C2%B7+backend-focused;laravel+%C2%B7+.net+%C2%B7+sap+business+one;multi-tenant+saas+%C2%B7+enterprise+integrations" alt="full-stack developer · backend-focused">
 
 ```yaml
 role:      Full-Stack Developer (backend-focused)
