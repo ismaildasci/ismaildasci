@@ -9,7 +9,7 @@ ismail@ankara:~$ whoami
 ```yaml
 role:      Full-Stack Developer (backend-focused)
 location:  Ankara, Türkiye (UTC+3)
-company:   Netgsm İletişim ve Bilgi Teknolojileri A.Ş.
+company: 
 stack:
   backend:  [PHP 8.x, Laravel · Octane · Swoole, .NET Core, Go, Rust]
   frontend: [Vue.js, Nuxt, React, Next.js]
