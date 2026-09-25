@@ -34,7 +34,7 @@ ismail@ankara:~$ cat ~/projects/open-source.md
 ismail@ankara:~$ cat experience.txt
 ```
 
-Currently working as a Full-Stack Developer at [Netgsm](https://www.netgsm.com.tr/). 4+ years
+Currently working as a Full-Stack Developer at [AHL Kripto]. 4+ years
 building enterprise software and SaaS products: multi-tenant platforms, SAP Business One
 add-ons and integrations, enterprise REST APIs, and legacy-to-Laravel modernizations —
 designed, shipped, and operated with Docker and Kubernetes.
