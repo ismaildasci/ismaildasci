@@ -9,7 +9,7 @@ ismail@ankara:~$ whoami
 ```yaml
 role:      Full-Stack Developer (backend-focused)
 location:  Ankara, Türkiye (UTC+3)
-company: AHL Kripto
+company:   AHL Kripto
 stack:
   backend:  [PHP 8.x, Laravel · Octane · Swoole, .NET Core, Go, Rust]
   frontend: [Vue.js, Nuxt, React, Next.js]
@@ -26,6 +26,8 @@ ismail@ankara:~$ cat ~/projects/open-source.md
 **[sapb1-laravel-sdk](https://github.com/ismaildasci/sapb1-laravel-sdk)** — Open-source Laravel SDK for SAP Business One Service Layer, published on Packagist
 <sub>+ toolkit & Filament admin panel plugin</sub>
 
+**[claude-referee](https://github.com/ismaildasci/claude-referee)** — Unofficial Claude Code plugin that checks "done" claims and small judgement calls with TypeSafe Jev, and keeps receipts
+
 **[laravel/framework](https://github.com/laravel/framework)** — Contributions merged into Laravel core
 
 **[B1 Kampüs](https://b1-kampus.ismaildasci.com)** — SAP Business One focused learning & resource platform
@@ -34,18 +36,18 @@ ismail@ankara:~$ cat ~/projects/open-source.md
 ismail@ankara:~$ cat experience.txt
 ```
 
-Currently working as a Full-Stack Developer at [AHL Kripto]. 4+ years
-building enterprise software and SaaS products: multi-tenant platforms, SAP Business One
-add-ons and integrations, enterprise REST APIs, and legacy-to-Laravel modernizations —
-designed, shipped, and operated with Docker and Kubernetes.
+Currently a Full-Stack Developer at AHL Kripto. Before that, 4+ years building enterprise
+software and SaaS products: multi-tenant platforms, SAP Business One add-ons and integrations,
+enterprise REST APIs, and legacy-to-Laravel modernizations — designed, shipped, and
+operated with Docker and Kubernetes.
 
 ```console
 ismail@ankara:~$ ./run --activity
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ismaildasci&theme=github-compact&hide_border=true&bg_color=00000000&color=8b949e&line=2f81f7&point=c9d1d9&area=false&hide_title=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismaildasci&hide_border=true&color=57606a&line=2f81f7&point=24292f&area=false&hide_title=true" alt="Contribution activity" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismaildasci/ismaildasci/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ismaildasci/ismaildasci/output/github-contribution-grid-snake.svg" alt="Contribution activity" width="100%">
 </picture>
 
 <div align="center">
@@ -56,9 +58,10 @@ ismail@ankara:~$ ./run --activity
 <summary><strong>Türkçe özet</strong></summary>
 <br>
 
-Ankara merkezli, backend odaklı full-stack geliştiriciyim. Netgsm'de çok kiracılı B2B SaaS
-ürünleri geliştiriyorum. Laravel çekirdeğine merge edilmiş katkılarım ve Packagist'te
-yayımlanmış SAP Business One SDK'm bulunuyor.
+Ankara merkezli, backend odaklı full-stack geliştiriciyim; şu anda AHL Kripto'da çalışıyorum.
+Önceki rollerimde çok kiracılı SaaS platformları, SAP Business One add-on ve entegrasyonları
+geliştirdim. Laravel çekirdeğine merge edilmiş katkılarım, Packagist'te yayımlanmış SAP Business One SDK'm
+ve TypeSafe Jev ile çalışan açık kaynak Claude Code eklentisi claude-referee bulunuyor.
 
 </details>
 
