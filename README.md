@@ -11,8 +11,9 @@ role:      Full-Stack Developer (backend-focused)
 location:  Ankara, Türkiye (UTC+3)
 company:   AHL Kripto
 stack:
-  backend:  [PHP 8.x, Laravel · Octane · Swoole, .NET Core, Go, Rust]
+  backend:  [PHP 8.x, Laravel · Octane · Swoole, .NET, .NET Core, Go, Rust]
   frontend: [Vue.js, Nuxt, React, Next.js]
+  tall:     [Tailwind CSS · Alpine.js · Laravel · Livewire]
   data:     [PostgreSQL, MySQL, MSSQL, Redis]
   infra:    [Docker, Kubernetes, Linux, GitHub Actions]
   erp:      [SAP Business One · Service Layer · add-ons]
